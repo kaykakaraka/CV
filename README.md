@@ -1,77 +1,64 @@
-## Your Name
+## Kay Dent
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A Junior Software Developer training at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+"The highest form of research is play"
+(slightly rewording of a quotation commonly misattributed to Einstein)
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin).
 
--STAR
--What was the situation/task? (ST)
+**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating is about listening.
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+**Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, originally composed music and theatre).
 
 
-#### This Skill
+## Projects
 
-- Experience
-- Achievements
-- Evidence (STAR)
+| Name                         | Description                                                             | Tech/tools        |
+| ---------------------------- | ----------------------------------------------------------------------- | ----------------- |
+| Student Directory            | A command line app to interact with a list of students and their cohort | Ruby              |
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+## Work Experience
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Freelance Theatre Maker** 
+- Shows include 'how to go outside' and Arts Council funded 'Masks/tidal'
+- Worked collaboratively to solve problems
+- Marketed and produced the shows
+
+**Freelance Tutor** 2015 - Now
+- increasingly teaching GCSE Maths and Science
+- one-to-one and group lessons with a wide variety of students at a range of levels
+
+**Head of English at Tennis Avenue Academy** 2015 - 2022  
+- planned the curriculum
+- taught classes from Year 3 to A Level
+
+**Freelance Performer**
+- performing in the UK and abroad
+- touring and spending a lot of time with a small group of people
+- puppeteering
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy May 2022 - Now
+- Ruby
+- Rspec
+- Frequently pairing to solve problems
 
-#### Your University / College (start_date to end_date)
+#### University of Cambridge, 2012-2015
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- English BA, 2.i
+- Firsts in Practical Criticism, Tragedy and French Literature (including translation)
+- JCR Charities, Environments and Campaigns Officer for 2 years
+- I did a lot of plays!
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+**Violin** - entertainment available
+**Gardening** - always willing to supply homegrown courgettes
+**Writing** - Samples on request and in return for praise
+**Organising random events for fun** - I may invite you to a poetry night at some point
+**Reading** - The English degree didn't quite put me off 
