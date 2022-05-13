@@ -11,7 +11,7 @@ A Junior Software Developer training at Makers Academy. My background in the cre
 
 **Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating is about listening.
 
-**Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, originally composed music and theatre).
+**Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music).
 
 
 ## Projects
@@ -29,7 +29,7 @@ A Junior Software Developer training at Makers Academy. My background in the cre
 - Marketed and produced the shows
 
 **Freelance Tutor** 2015 - Now
-- increasingly teaching GCSE Maths and Science
+- specialising in teaching GCSE Maths and Science
 - one-to-one and group lessons with a wide variety of students at a range of levels
 
 **Head of English at Tennis Avenue Academy** 2015 - 2022  
@@ -38,7 +38,7 @@ A Junior Software Developer training at Makers Academy. My background in the cre
 
 **Freelance Performer**
 - performing in the UK and abroad
-- touring and spending a lot of time with a small group of people
+- touring and working intensively with a small group
 - puppeteering
 
 ## Education
